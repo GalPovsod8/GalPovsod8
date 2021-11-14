@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GalPovsod8
 - 👀 I’m interested in music production, programing, ...
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, HTML, CSS, JavaScrit, Python...
 - 📫 You can conntact me via email: galpos10@gmail.com
 
 <!---
