@@ -1,7 +1,3 @@
-Here’s a clean, professional, and engaging GitHub profile description for you:  
-
----  
-
 ### 👋 Hi, I’m [Gal Povsod]  
 🎓 **Computer Science Student** @ [FERI, University of Maribor](https://feri.um.si/)  
 💻 **Full-Stack & UI/UX Enthusiast**  
